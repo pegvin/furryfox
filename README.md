@@ -19,7 +19,7 @@ my firefox related configs and stuff
 - Enlight - https://addons.mozilla.org/en-US/firefox/addon/enlight/
 - Modern For Wikipedia - https://addons.mozilla.org/en-US/firefox/addon/modern-for-wikipedia/
 - ublock origin - https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/
-- decentraleyes - https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/
+- LocalCDN - https://addons.mozilla.org/en-US/firefox/addon/localcdn-fork-of-decentraleyes/
 
 ---
 ## Thanks
