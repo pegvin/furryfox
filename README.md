@@ -10,6 +10,10 @@ my firefox related configs and stuff
 - `security.ssl.require_safe_negotiation` - `true`
 - `geo.enabled` - `false`
 - `network.http.sendRefererHeader` - `0`
+- `browser.aboutConfig.showWarning` - `false`
+
+### External Configs
+- [Arkenfox's user.js](https://github.com/arkenfox/user.js/)
 
 ### Addons
 
