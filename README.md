@@ -11,9 +11,12 @@ my firefox related configs and stuff
 - `geo.enabled` - `false`
 - `network.http.sendRefererHeader` - `0`
 - `browser.aboutConfig.showWarning` - `false`
+- `browser.tabs.firefox-view` - `false`
+- `extensions.pocket.enabled` - `false` (if you use pocket no need to set this to false and also make sure to get your brain checked for any damages)
 
 ### External Configs
 - [Arkenfox's user.js](https://github.com/arkenfox/user.js/)
+- [Keyfox's userChrome.css](https://github.com/AlfarexGuy2019/keyfox/)
 
 ### Addons
 
